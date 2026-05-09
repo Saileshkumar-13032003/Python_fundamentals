@@ -1,1 +1,1 @@
-print("Welcome to github class")
+print("Welcome to github class. We will learn about git and github")
